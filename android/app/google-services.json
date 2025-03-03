@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354668593589",
+    "project_id": "bluff-brain",
+    "storage_bucket": "bluff-brain.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354668593589:android:52f5c0dd94575d4a3a59fc",
+        "android_client_info": {
+          "package_name": "com.bluff_brain.bluff_brain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX130irRkLm_e4bZWtJcwc0AMhamDTh-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
